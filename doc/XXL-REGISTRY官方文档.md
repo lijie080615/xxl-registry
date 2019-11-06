@@ -101,7 +101,7 @@ xxl.registry.login.password=123456
 如果已经正确进行上述配置，可将项目编译打包部署。
 访问地址：http://localhost:8080/xxl-registry-admin  (该地址接入方项目将会使用到，作为注册地址)，登录后运行界面如下图所示
 
-![输入图片说明](https://raw.githubusercontent.com/xuxueli/xxl-registry/master/doc/images/img_01.png "在这里输入图片标题")
+![输入图片说明](https://www.xuxueli.com/doc/static/xxl-registry/images/img_01.png "在这里输入图片标题")
 
 至此“服务注册中心”项目已经部署成功。
 
@@ -323,7 +323,7 @@ registryClient.monitor(keys);
 ## 四、系统设计
 
 ### 4.1 系统架构图
-![输入图片说明](https://raw.githubusercontent.com/xuxueli/xxl-registry/master/doc/images/img_02.png "在这里输入图片标题")
+![输入图片说明](https://www.xuxueli.com/doc/static/xxl-registry/images/img_02.png "在这里输入图片标题")
 
 ### 4.2 原理解析
 XXL-REGISTRY内部通过广播机制，集群节点实时同步服务注册信息，确保一致。客户端借助 long pollong 实时感知服务注册信息，简洁、高效；
