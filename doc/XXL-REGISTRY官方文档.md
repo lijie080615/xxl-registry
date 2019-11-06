@@ -5,7 +5,7 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-registry/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.xuxueli/xxl-registry/)
 [![GitHub release](https://img.shields.io/github/release/xuxueli/xxl-registry.svg)](https://github.com/xuxueli/xxl-registry/releases)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0.html)
-[![donate](https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square)](http://www.xuxueli.com/page/donate.html)
+[![donate](https://img.shields.io/badge/%24-donate-ff69b4.svg?style=flat-square)](https://www.xuxueli.com/page/donate.html)
 
 
 ## 一、简介
@@ -35,7 +35,7 @@ XXL-REGISTRY 是一个轻量级分布式服务注册中心，拥有"轻量级、
 
 #### 文档地址
 
-- [中文文档](http://www.xuxueli.com/xxl-registry/)
+- [中文文档](https://www.xuxueli.com/xxl-registry/)
 
 #### 源码仓库地址
 
@@ -46,7 +46,7 @@ XXL-REGISTRY 是一个轻量级分布式服务注册中心，拥有"轻量级、
 
 
 #### 技术交流
-- [社区交流](http://www.xuxueli.com/page/community.html)
+- [社区交流](https://www.xuxueli.com/page/community.html)
 
 
 ### 1.4 环境
@@ -410,4 +410,4 @@ XXL-REGISTRY内部通过广播机制，集群节点实时同步服务注册信�
 
 ---
 ### 捐赠
-无论金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](http://www.xuxueli.com/page/donate.html )
+无论金额多少都足够表达您这份心意，非常感谢 ：）      [前往捐赠](https://www.xuxueli.com/page/donate.html )

@@ -8,7 +8,7 @@
 
 	<name>${project.artifactId}</name>
 	<description>XXL-REGISTRY, A lightweight distributed service registry and discovery platform.</description>
-	<url>http://www.xuxueli.com/</url>
+	<url>https://www.xuxueli.com/</url>
 
 	<modules>
 		<module>xxl-registry-client</module>
