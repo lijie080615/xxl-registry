@@ -29,8 +29,9 @@ public class PropUtil {
             if (!file.exists()) {
                 return null;
             }
-            URL url = new File(propertyFileName).toURI().toURL();
-            in = new FileInputStream(url.getPath());
+            /*URL url = new File(propertyFileName).toURI().toURL();
+            in = new FileInputStream(url.getPath());*/
+            in = new FileInputStream(file);
             if (in == null) {
                 return null;
             }
