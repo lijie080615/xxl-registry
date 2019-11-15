@@ -7,8 +7,8 @@
         <a href="https://www.xuxueli.com/xxl-registry/"><strong>-- Home Page --</strong></a>
         <br>
         <br>
-        <a href="https://travis-ci.org/xuxueli/xxl-registry">
-            <img src="https://travis-ci.org/xuxueli/xxl-registry.svg?branch=master" >
+        <a href="https://github.com/xuxueli/xxl-registry/actions">
+            <img src="https://github.com/xuxueli/xxl-registry/workflows/Java%20CI/badge.svg" >
         </a>
         <a href="https://hub.docker.com/r/xuxueli/xxl-registry-admin/">
             <img src="https://img.shields.io/badge/docker-passing-brightgreen.svg" >
