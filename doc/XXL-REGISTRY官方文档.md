@@ -385,6 +385,8 @@ XXL-REGISTRY内部通过广播机制，集群节点实时同步服务注册信�
 - 2.修复服务注册version不匹配问题；
 - 3.升级依赖版本，如slf4j-api/spring-boot/mybatis/mysql等；
 
+### 5.4 版本 v1.1.1 Release Notes[迭代中]
+
 
 
 ### TODO
